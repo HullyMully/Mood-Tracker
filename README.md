@@ -2,7 +2,6 @@
 
 A beautiful and intuitive mood tracking application built with Flutter. Track your emotional well-being, visualize your mood patterns, and gain insights into your emotional health.
 
-![Mood Tracker App](screenshots/preview.png)
 
 ## Features
 
