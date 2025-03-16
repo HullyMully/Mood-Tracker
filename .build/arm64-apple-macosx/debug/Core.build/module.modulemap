@@ -1,0 +1,4 @@
+module Core {
+    header "/Users/hullymully/Documents/development/upwork/iOSMobApp/.build/arm64-apple-macosx/debug/Core.build/Core-Swift.h"
+    requires objc
+}

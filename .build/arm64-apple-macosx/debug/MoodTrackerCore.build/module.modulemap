@@ -1,0 +1,4 @@
+module MoodTrackerCore {
+    header "/Users/hullymully/Documents/development/upwork/iOSMobApp/.build/arm64-apple-macosx/debug/MoodTrackerCore.build/MoodTrackerCore-Swift.h"
+    requires objc
+}

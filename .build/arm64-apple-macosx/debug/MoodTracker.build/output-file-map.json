@@ -1,0 +1,35 @@
+{
+  "": {
+    "swift-dependencies": "/Users/hullymully/Documents/development/upwork/iOSMobApp/.build/arm64-apple-macosx/debug/MoodTracker.build/master.swiftdeps"
+  },
+  "/Users/hullymully/Documents/development/upwork/iOSMobApp/Sources/App/MoodTrackerApp.swift": {
+    "dependencies": "/Users/hullymully/Documents/development/upwork/iOSMobApp/.build/arm64-apple-macosx/debug/MoodTracker.build/MoodTrackerApp.d",
+    "object": "/Users/hullymully/Documents/development/upwork/iOSMobApp/.build/arm64-apple-macosx/debug/MoodTracker.build/MoodTrackerApp.swift.o",
+    "swiftmodule": "/Users/hullymully/Documents/development/upwork/iOSMobApp/.build/arm64-apple-macosx/debug/MoodTracker.build/MoodTrackerApp~partial.swiftmodule",
+    "swift-dependencies": "/Users/hullymully/Documents/development/upwork/iOSMobApp/.build/arm64-apple-macosx/debug/MoodTracker.build/MoodTrackerApp.swiftdeps"
+  },
+  "/Users/hullymully/Documents/development/upwork/iOSMobApp/Sources/App/Views/AddMoodView.swift": {
+    "dependencies": "/Users/hullymully/Documents/development/upwork/iOSMobApp/.build/arm64-apple-macosx/debug/MoodTracker.build/AddMoodView.d",
+    "object": "/Users/hullymully/Documents/development/upwork/iOSMobApp/.build/arm64-apple-macosx/debug/MoodTracker.build/AddMoodView.swift.o",
+    "swiftmodule": "/Users/hullymully/Documents/development/upwork/iOSMobApp/.build/arm64-apple-macosx/debug/MoodTracker.build/AddMoodView~partial.swiftmodule",
+    "swift-dependencies": "/Users/hullymully/Documents/development/upwork/iOSMobApp/.build/arm64-apple-macosx/debug/MoodTracker.build/AddMoodView.swiftdeps"
+  },
+  "/Users/hullymully/Documents/development/upwork/iOSMobApp/Sources/App/Views/MainView.swift": {
+    "dependencies": "/Users/hullymully/Documents/development/upwork/iOSMobApp/.build/arm64-apple-macosx/debug/MoodTracker.build/MainView.d",
+    "object": "/Users/hullymully/Documents/development/upwork/iOSMobApp/.build/arm64-apple-macosx/debug/MoodTracker.build/MainView.swift.o",
+    "swiftmodule": "/Users/hullymully/Documents/development/upwork/iOSMobApp/.build/arm64-apple-macosx/debug/MoodTracker.build/MainView~partial.swiftmodule",
+    "swift-dependencies": "/Users/hullymully/Documents/development/upwork/iOSMobApp/.build/arm64-apple-macosx/debug/MoodTracker.build/MainView.swiftdeps"
+  },
+  "/Users/hullymully/Documents/development/upwork/iOSMobApp/Sources/App/Views/MoodHistoryView.swift": {
+    "dependencies": "/Users/hullymully/Documents/development/upwork/iOSMobApp/.build/arm64-apple-macosx/debug/MoodTracker.build/MoodHistoryView.d",
+    "object": "/Users/hullymully/Documents/development/upwork/iOSMobApp/.build/arm64-apple-macosx/debug/MoodTracker.build/MoodHistoryView.swift.o",
+    "swiftmodule": "/Users/hullymully/Documents/development/upwork/iOSMobApp/.build/arm64-apple-macosx/debug/MoodTracker.build/MoodHistoryView~partial.swiftmodule",
+    "swift-dependencies": "/Users/hullymully/Documents/development/upwork/iOSMobApp/.build/arm64-apple-macosx/debug/MoodTracker.build/MoodHistoryView.swiftdeps"
+  },
+  "/Users/hullymully/Documents/development/upwork/iOSMobApp/Sources/App/Views/SettingsView.swift": {
+    "dependencies": "/Users/hullymully/Documents/development/upwork/iOSMobApp/.build/arm64-apple-macosx/debug/MoodTracker.build/SettingsView.d",
+    "object": "/Users/hullymully/Documents/development/upwork/iOSMobApp/.build/arm64-apple-macosx/debug/MoodTracker.build/SettingsView.swift.o",
+    "swiftmodule": "/Users/hullymully/Documents/development/upwork/iOSMobApp/.build/arm64-apple-macosx/debug/MoodTracker.build/SettingsView~partial.swiftmodule",
+    "swift-dependencies": "/Users/hullymully/Documents/development/upwork/iOSMobApp/.build/arm64-apple-macosx/debug/MoodTracker.build/SettingsView.swiftdeps"
+  }
+}

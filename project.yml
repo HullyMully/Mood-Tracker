@@ -1,0 +1,18 @@
+name: MoodTracker
+options:
+  bundleIdPrefix: com.example
+  deploymentTarget:
+    iOS: 15.0
+targets:
+  MoodTracker:
+    type: application
+    platform: iOS
+    sources:
+      - Sources
+    settings:
+      base:
+        INFOPLIST_FILE: Sources/Info.plist
+        PRODUCT_BUNDLE_IDENTIFIER: com.example.moodtracker
+    dependencies:
+      - framework: Charts
+        embed: true 
